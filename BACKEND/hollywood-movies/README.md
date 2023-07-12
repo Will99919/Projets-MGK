@@ -1,3 +1,3 @@
-# HOLLYWOOD_PROJECT_FILES
+# HOLLYWOOD_MOVIES
 
-Site for Hollywood moovies  
+Site qui repertorie les 10 film de hollywood avec une affiche, le synopsis et les acteurs principaux
